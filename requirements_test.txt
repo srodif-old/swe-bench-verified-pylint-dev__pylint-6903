@@ -5,7 +5,7 @@ coverage~=6.4
 pre-commit~=2.19
 tbump~=6.9.0
 contributors-txt>=0.7.3
-pytest-cov~=3.0
+pytest-cov~=6.3
 pytest-profiling~=1.7
 pytest-xdist~=2.5
 # Type packages for mypy
